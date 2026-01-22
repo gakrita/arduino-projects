@@ -12,7 +12,7 @@ The system detects motion and automatically opens the lid for touchless operatio
 
 Technologies: Arduino, Ultrasonic Sensor, Servo Motor
 
-### 🎄 [Arduino Christmas Tree Lights](https://www.facebook.com/reel/1110388197716409)
+### 🎄 [Christmas Tree Lights](https://www.facebook.com/reel/1110388197716409)
 Arduino-powered custom LED effects on a Christmas tree — handcrafted tech magic!
 
 Technologies: Arduino, LEDs, PWM, Creative Lighting Effects
