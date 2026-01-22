@@ -2,13 +2,7 @@
 
 ## 🌙 [Smart Night Light](https://www.facebook.com/reel/1179370684059771)
 Automatically turns on LEDs in the dark using a light sensor.
-
 Technologies: Arduino, LDR Sensor, LED
-
-
-
-
-
 
 ## 👀 [Mini Alarm System](https://www.facebook.com/reel/1520850232586827)
 Detects approaching objects using an ultrasonic sensor and triggers a buzzer.
