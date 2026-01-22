@@ -1,4 +1,4 @@
-#🔧 Arduino Projects
+# 🔧 Arduino Projects
 
 ## 🌙 [Smart Night Light](https://www.facebook.com/reel/1179370684059771)
 Automatically turns on LEDs in the dark using a light sensor.
