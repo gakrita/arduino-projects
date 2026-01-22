@@ -6,4 +6,9 @@ The system detects a vehicle and automatically raises the barrier.
 
 Technologies: Arduino, Ultrasonic Sensor, Servo Motor
 
+### 🗑️ [Smart Trash Bin](https://www.facebook.com/reel/836741192608605)
+Smart trash bin controlled by Arduino.  
+The system detects motion and automatically opens the lid for touchless operation.
+
+Technologies: Arduino, Ultrasonic Sensor, Servo Motor
 
